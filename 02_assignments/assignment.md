@@ -11,10 +11,10 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment`.
-- [ ] Ensure that the repository is public.
+- [x] Create a branch called `assignment`.
+- [x] Ensure that the repository is public.
 - [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Verify that the link is accessible in a private browser window.
 
 # Assignment: The Secret Password
 
@@ -34,11 +34,12 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-Your answer here...
-
-
-
-
+Paper Rings
+season_10
+Meets
+and
+Lucky
+Stars
 ```
 
 |Criteria|Complete|Incomplete|
@@ -48,3 +49,4 @@ Your answer here...
 
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
+
