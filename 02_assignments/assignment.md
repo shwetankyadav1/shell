@@ -13,7 +13,7 @@
 Checklist:
 - [x] Create a branch called `assignment`.
 - [x] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
 - [x] Verify that the link is accessible in a private browser window.
 
 # Assignment: The Secret Password
